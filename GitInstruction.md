@@ -76,4 +76,4 @@ cd FolderName/
 4. Создать новую ветку `git branch <branchName>` или `git checkout -b <branchName>`.
 5. Вносим и фиксируем изменения.
 6. После коммита выполняем команду `git push --set-upstream origin <branchName>`.
-7. Через GitHub выполнить `pull request`. Если команда не появляется, идем путем `new pull request -> выбираем нужную ветку в head repository -> create pull request`
+7. Через GitHub выполнить `compare & pull request`. Если команда не появляется, идем путем `new pull request -> выбираем нужную ветку в head repository -> create pull request`
